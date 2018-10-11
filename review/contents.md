@@ -1,2 +1,2 @@
 # contents
-Contents of reading notes for each references.
+Contents of reviews for each thematic references.
