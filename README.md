@@ -7,7 +7,7 @@ Click [here](https://github.com/ShawnXiee/references_library/blob/master/review/
 ## Contents of Reading Notes
 Click [here](https://github.com/ShawnXiee/references_library/blob/master/note/contents.md) to visit the contents of reading notes for each reference.
 
-## My Library
+## References Sharing
 This is a [list](https://github.com/ShawnXiee/references_library/blob/master/references/README.md) of all the references in my personal library, you can download these references easily from [here](https://github.com/ShawnXiee/references_library/tree/master/references).  
 
 ## To remove all barriers in the way of science togrther
