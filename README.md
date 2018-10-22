@@ -1,5 +1,5 @@
 # References Library
-A pattern for references management.
+This is a pattern for references management.
 
 ## Contents of Reviews
 Click [here](https://github.com/ShawnXiee/references_library/blob/master/review/contents.md) to visit the contents of reviews for each thematic references.
