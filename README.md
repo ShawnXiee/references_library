@@ -10,7 +10,7 @@ Click [here](https://github.com/ShawnXiee/references_library/blob/master/note/co
 ## References Sharing
 This is a [list](https://github.com/ShawnXiee/references_library/blob/master/references/README.md) of all the references in my personal library, you can download these references easily from [here](https://github.com/ShawnXiee/references_library/tree/master/references).  
 
-## To remove all barriers in the way of science togrther
+## To Remove All Barriers in the Way of Science Togrther
 Please do me a favour to gather references listed in the [ToGet.md](https://github.com/ShawnXiee/references_library/blob/master/ToGet.md).
 
 ## Contributors
