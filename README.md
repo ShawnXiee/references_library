@@ -2,7 +2,7 @@
 A pattern for references management.
 
 ## Contents of Reviews
-Click [here](https://github.com/ShawnXiee/references_library/blob/master/review/contents.md).
+Click [here](https://github.com/ShawnXiee/references_library/blob/master/review/contents.md) for contents of reviews for each thematic references.
 
 ## Contents of Reading Notes
 Click [here](https://github.com/ShawnXiee/references_library/blob/master/note/contents.md).
