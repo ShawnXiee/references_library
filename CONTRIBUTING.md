@@ -12,7 +12,9 @@ There are a few guidelines in place to keep the repo clean and easy to navigate.
 
 - :+1: `:+1:` - It's well worth thinking! 
 
-- :hand: `:hand:` - Give me five.
+- :hand: `:hand:` - Give me five.  
+
+- :m: `:m:` - Proceedings
 
 ## Ranking
 > year
