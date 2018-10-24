@@ -8,13 +8,13 @@ There are a few guidelines in place to keep the repo clean and easy to navigate.
 
 - :memo: `:memo:` - Note  
 
-- :triangular_flag_on_post: `:triangular_flag_on_post:` - CSSCI, SCI, EI, ISTP, etc.  
+- :triangular_flag_on_post: `:triangular_flag_on_post:` - CSSCI, SCI, EI, ISTP, etc. 
+
+- :m: `:m:` - Proceedings  
 
 - :+1: `:+1:` - It's well worth thinking! 
 
 - :hand: `:hand:` - Give me five.  
-
-- :m: `:m:` - Proceedings
 
 ## Ranking
 > year
