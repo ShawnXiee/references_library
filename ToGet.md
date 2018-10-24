@@ -33,4 +33,4 @@ Physicians whose expertise is differs from that of the majority have higher onli
 
 - [ ] Jia Li, Jie Tang, Ling Jiang, David Yen, Xuan Liu. Economic success of physicians in the online consultation market: A signaling theory perspective. International Journal of Electronic Commerce, forthcoming
 
-
+- [ ] Xuan Liu, Mingtian Pan, Jia Li (2016). Research on the influencing factors to obtain high quality replies in online health community. The 2016 International Conference on Management Science and Engineering (ICMSE 2016), Olten, Switzerland, August 17-20.
