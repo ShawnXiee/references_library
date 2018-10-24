@@ -9,3 +9,4 @@ There are a few guidelines in place to keep the repo clean and easy to navigate.
 - :memo: `:memo:` - Notes  
 
 - :triangular_flag_on_post: `:triangular_flag_on_post:` - CSSCI, SCI, EI, ISTP, etc.  
+- :+1: `:+1:` - It's well worth thinking!  
