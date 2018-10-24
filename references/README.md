@@ -1,2 +1,2 @@
 # README
-Here is a list for all references which I have read.
+Here is a list for all papers which I have read or plan to read.
