@@ -17,6 +17,8 @@ This is a [list](https://github.com/ShawnXiee/references_library/blob/master/ref
 
 - :triangular_flag_on_post:  - CSSCI, SCI, EI, ISTP, etc. 
 
+- :m: - Proceedings  
+
 - :+1:  - It's well worth thinking! 
 
 ## To Remove All Barriers in the Way of Science Togrther
