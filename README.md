@@ -10,6 +10,15 @@ Click [here](https://github.com/ShawnXiee/references_library/blob/master/note/co
 ## References Sharing
 This is a [list](https://github.com/ShawnXiee/references_library/blob/master/references/README.md) of all the references in my personal library, you can download these references easily from [here](https://github.com/ShawnXiee/references_library/tree/master/references).  
 
+## Emoji Cheat Sheet
+- :page_facing_up:   - Full text  
+
+- :memo:  - Note  
+
+- :triangular_flag_on_post:  - CSSCI, SCI, EI, ISTP, etc. 
+
+- :+1:  - It's well worth thinking! 
+
 ## To Remove All Barriers in the Way of Science Togrther
 Please do me a favour to gather the references listed in the [ToGet.md](https://github.com/ShawnXiee/references_library/blob/master/ToGet.md) file.:hand: 
 
