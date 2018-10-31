@@ -33,3 +33,4 @@ Physicians whose expertise is differs from that of the majority have higher onli
 
 - [ ] Jia Li, Jie Tang, Ling Jiang, David Yen, Xuan Liu. Economic success of physicians in the online consultation market: A signaling theory perspective. International Journal of Electronic Commerce, forthcoming
 
+- [ ] The Language of SQL (2nd Edition).pdf  2M by Larry Rockoff
