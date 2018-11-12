@@ -25,9 +25,7 @@ We employed secondary data in an econometric analysis of transactions obtained f
 **Results**:
 Specialization, the differentiation strategy, has a significant positive impact on the physician’s online income (β =0.011, p < 0.001). Moreover, specialization will improve a physician’s competitive advantage when market competition is more intense (β =0.116, p < 0.001).  
 **Conclusions**:
-Physicians whose expertise is differs from that of the majority have higher online incomes, and this impact will be stronger when market competition is more intense. Our study indicates that e-Consultations may accelerate the specialization trend observed in the health care industry because the online market favors more-specialized physicians, and competition in the online market is stronger than in the offline market. Such an impact may be positive for some very complicated diseases but less positive for some chronic diseases. Policy makers should be careful with the double-edged sword of e-Consultation.
-
-- [ ] Xuan Liu, Mingtian Pan, Jia Li* (2018). Does sharing your emotion make you feel better? An empirical investigation on the association between sharing emotions on a virtual mood wall and the relief of patients’ negative emotions. Telemedicine and e-Health, forthcoming. 
+Physicians whose expertise is differs from that of the majority have higher online incomes, and this impact will be stronger when market competition is more intense. Our study indicates that e-Consultations may accelerate the specialization trend observed in the health care industry because the online market favors more-specialized physicians, and competition in the online market is stronger than in the offline market. Such an impact may be positive for some very complicated diseases but less positive for some chronic diseases. Policy makers should be careful with the double-edged sword of e-Consultation. 
 
 - [ ] Jia Li, Jie Tang, David Yen, Xuan Liu. Disease risk and its moderating effect on the E-Consultation market offline and online signals. Information Technology & People, forthcoming. 
 
