@@ -17,9 +17,9 @@ This is a [list](https://github.com/ShawnXiee/references_library/blob/master/ref
 
 - :triangular_flag_on_post:  - CSSCI, SCI, EI, ISTP, etc. 
 
-- :books: - Books
+- :books: - Book  
 
-- :m: - Proceedings  
+- :m: - Proceeding  
 
 - :+1:  - It's well worth thinking! 
 
