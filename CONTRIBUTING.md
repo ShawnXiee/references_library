@@ -10,9 +10,9 @@ There are a few guidelines in place to keep the repo clean and easy to navigate.
 
 - :triangular_flag_on_post: `:triangular_flag_on_post:` - CSSCI, SCI, EI, ISTP, etc. 
 
-- :books: `:books:` - Books  
+- :books: `:books:` - Book  
 
-- :m: `:m:` - Proceedings  
+- :m: `:m:` - Proceeding  
 
 - :+1: `:+1:` - It's well worth thinking! 
 
