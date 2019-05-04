@@ -37,6 +37,6 @@
 
 - [ ] Jia Li, Jie Tang, David Yen, Xuan Liu. Disease risk and its moderating effect on the E-Consultation market offline and online signals. Information Technology & People, forthcoming. 
 
-- [ ] Jia Li, Jie Tang, Ling Jiang, David Yen, Xuan Liu. Economic success of physicians in the online consultation market: A signaling theory perspective. International Journal of Electronic Commerce, forthcoming
+- [x] Jia Li, Jie Tang, Ling Jiang, David Yen, Xuan Liu. Economic success of physicians in the online consultation market: A signaling theory perspective. International Journal of Electronic Commerce, forthcoming `20190504`
 
 - [x] The Language of SQL (2nd Edition).pdf  2M by Larry Rockoff :books: `20190102`
