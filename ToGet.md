@@ -2,6 +2,10 @@
 
 [![Email](https://img.shields.io/badge/Email-2%40xieshiwen.cn-brightgreen.svg)](mailto:2@xieshiwen.cn)
 
+### 2019.6
+
+- [ ] The Effects of Participating in Physician-Driven Online Health Community in Managing Chronic Disease : Evidence from Two Natural Experiments
+
 ### 2018.10
 
 - [ ] 蒋玲. 在线问诊市场中的价格溢价、医生收入和价格竞争研究[D]. 华东理工大学, 2016. 
