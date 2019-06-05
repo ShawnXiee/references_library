@@ -14,7 +14,7 @@
     > 
     > 本文旨在探索线上线下信号机制对于医生收入、价格溢价的信号作用，提高医生对线上医疗事业的重视，帮助患者合理决策。研究调节机制的作用，帮助医生进行合理长远的规划，对于医院和平台未来发展具有重要的现实意义。
 
-- [x] Differentiation strategy in online physician competition: Does specialization matter? (Preprint)
+- [x] Differentiation strategy in online physician competition: Does specialization matter? (Preprint) `20190606`
 
       DOI: 10.2196/preprints.7529
 
